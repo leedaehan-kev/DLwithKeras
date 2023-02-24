@@ -1,4 +1,4 @@
 # Deep Learning with pytorch
 
 
-from CNN to Advanced CNN like EfficientNet
+from Deep Learning basic to Advanced CNN like EfficientNet
